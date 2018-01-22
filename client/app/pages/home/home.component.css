@@ -1,0 +1,5 @@
+<!-- Insert here your CSS -->
+*[routerLink] {
+    color: #FF7800;
+    cursor: pointer;
+}
